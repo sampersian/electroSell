@@ -1,0 +1,79 @@
+420911	Television	LCD	LG	62	1599
+420912	Television	LED	Samsung	60	1549
+420913	Television	Plasma	Sony	55	1629
+420914	Television	LED	Sharp	55	1299
+420915	Television	LCD	Toshiba	50	1249
+420916	Television	Plasma	LG	44	979
+420917	Television	LCD	Samsung	42	749
+420918	Television	Plasma	Panasonic	40	549
+420919	Television	LCD	Vizio	38	449
+420920	Television	LED	Sharp	32	300
+420921	Television	LED	Sony	30	350
+420922	Video Players	Internet	Google	Chromecast	35
+420923	Video Players	Internet	Apple	tv	100
+420924	Video Players	Disk	Sony	bluRay	150
+420925	Video Players	Disk	Samsung	bluRay	120
+420926	Video Players	Disk	Toshiba	bluRay	80
+420927	Cell Phones	Verizon	Apple	iPhone 5	650
+420928	Cell Phones	Verizon	Samsung	Galaxy S5	600
+420929	Cell Phones	Verizon	Blackberry	z10	550
+420930	Cell Phones	T-Mobile	Apple	iPhone 5	650
+420931	Cell Phones	T-Mobile	Samsung	Galaxy S5	600
+420932	Cell Phones	Unlocked	Apple	iPhone 4s	450
+420933	Cell Phones	Unlocked	Samsung	Galaxy S4	500
+420934	Media	Music	Drake	Nothing was the Same	15
+420935	Media	Music	Zac Brown Band	Uncaged	12
+420936	Media	Music	Wiz Khalifa	Rolling Papers	12
+420937	Media	Movie	A Few Good Men	Drama	10
+420938	Media	Movie	Miracle	Action	12
+420939	Media	Movie	This is the End	Comedy	15
+420940	Computers	Laptop	Apple	Macbook Pro	1600
+420941	Computers	Laptop	Dell	Inspiron 7000	850
+420942	Computers	Laptop	Toshiba	Satellite	600
+420943	Computers	Desktop	HP	Pavillion	550
+420944	Computers	Desktop	Dell	Inspiron 3000	350
+420945	Computer Accessories	Mouse	Logitech	Wireless	16
+420946	Computer Accessories	Mouse	HP	Wireless	19
+420947	Computer Accessories	Keyboard	Logitech	Wireless	30
+420948	Computer Accessories	Keyboard	HP	Wireless	49
+420949	Computer Accessories	Flash Drive	SanDisk	32gb	25
+420950	Computer Accessories	Flash Drive	PNY	16gb	18
+420951	Computer Accessories	Flash Drive	PNY	8gb	8
+420952	Tablets	Windows	Microsoft	Surface 2	439
+420953	Tablets	Windows	Microsoft	Surface Pro 2	949
+420954	Tablets	ios	Apple	iPad air	600
+420955	Tablets	ios	Apple	iPad mini	400
+420956	Tablets	Android	Samsung	Galaxy Tab 3	340
+420957	Cameras	Photo	Canon	Rebel T3i	600
+420958	Cameras	Photo	Nikon	D3200	500
+420959	Cameras	Photo	Canon	PowerShot 12.1	189
+420960	Cameras	Photo	Sony	Cyber-shot	114
+420961	Cameras	Video	GoPro	Hero 3+	349
+420962	Cameras	Video	Sony	Handycam	699
+420963	Video Gaming	Console	Microsoft	Xbox One	480
+420964	Video Gaming	Console	Sony	Playstation 4	400
+420965	Video Gaming	Game	Xbox One	NHL 14	60
+420966	Video Gaming	Game	Playstation 4	NHL 14	60
+420967	Video Gaming	Controller	Xbox One	Batteries	60
+420968	Video Gaming	Controller	Xbox One	Rechargable	75
+420969	Video Gaming	Controller	Playstation 4	Rechargable	70
+420970	Audio	Player	Apple	iPod Touch 32gb	300
+420971	Audio	Player	Apple	iPod Nano 16gb	150
+420972	Audio	Player	Apple	iPod Classic 250gb	250
+420973	Audio	Headphones	Bose	QuietComfort	299
+420974	Audio	Headphones	Beats by Dre	Executive	299
+420975	Audio	Headphones	Beats by Dre	urBeats Earbud	100
+420976	Appliances	Refrigerator	LG	30.5 Cu. Ft. French Door	2549
+420977	Appliances	Refrigerator	Whirlpool	25.4 Cu. Ft. Side-by-Side	1145
+420978	Appliances	Dishwasher	Bosch	Evolution Ascenta	599
+420979	Appliances	Dishwasher	Bosch	500 Series	899
+420980	Appliances	Microwave	Whirlpool	1.7 Cu. Ft.	240
+420981	Appliances	Microwave	GE	1.6 Cu. Ft.	189
+420982	Appliances	Washer	LG	4.3 Cu. Ft. 8-Cycle	549
+420983	Appliances	Dryer	LG	7.3 Cu. Ft. 9-Cycle	549
+420984	Furniture	Theater	Magnolia	2-Seat Curved Leather	1449
+420985	Furniture	Theater	Magnolia	4-Seat Curved Leather	3349
+420986	Furniture	Office	True Innovations	Puresoft Polyurethane Chair	125
+420987	Furniture	Office	Bell'O	Open-Arch Computer Desk	245
+420988	Furniture	Office	Serta	Executive Chair	199
+420989	Furniture	Office	HON	310 Series Vertical File Cabinet	439

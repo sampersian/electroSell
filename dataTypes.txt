@@ -1,0 +1,33 @@
+cat	sub	makeType	modelType	currencyType
+Television	LCD	Brand	Inches	$
+Television	LED	Brand	Inches	$
+Television	Plasma	Brand	Inches	$
+Video Players	Internet	Brand	Model	$
+Video Players	Disk	Brand	Format	$
+Cell Phones	Verizon	Brand	Model	$
+Cell Phones	T-Mobile	Brand	Model	$
+Cell Phones	Unlocked	Brand	Model	$
+Media	Music	Artist	Album	$
+Media	Movie	Title	Genre	$
+Computers	Laptop	Brand	Model	$
+Computers	Desktop	Brand	Model	$
+Computer Accessories	Mouse	Brand	Connection	$
+Computer Accessories	Keyboard	Brand	Connection	$
+Computer Accessories	Flash Drive	Brand	Storage	$
+Tablets	Windows	Brand	Model	$
+Tablets	ios	Brand	Model	$
+Tablets	Android	Brand	Model	$
+Cameras	Photo	Brand	Model	$
+Cameras	Video	Brand	Model	$
+Video Gaming	Console	Brand	System	$
+Video Gaming	Game	System	Title	$
+Video Gaming	Controller	System	Power	$
+Audio	Player	Brand	Model	$
+Audio	Headphones	Brand	Model	$
+Appliances	Refrigerator	Brand	Model	$
+Appliances	Dishwasher	Brand	Model	$
+Appliances	Microwave	Brand	Model	$
+Appliances	Washer	Brand	Model	$
+Appliances	Dryer	Brand	Model	$
+Furniture	Theater	Brand	Size	$
+Furniture	Office	Brand	Model	$
